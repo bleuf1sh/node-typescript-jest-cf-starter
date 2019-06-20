@@ -44,3 +44,6 @@ To push to PCF and inject **git commit** and **cf push timestamp** into the env 
 ./pcfPush.sh
 ~~~~
 
+
+Thanks Dmitry for teaching me about Jest and helping me transition this from Jasmine to Jest.
+
